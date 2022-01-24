@@ -1,0 +1,12 @@
+<p>login works!</p>
+
+<form [formGroup]="forma">
+
+    <label for="vartotojo-vardas"> Vartotojo vardas: </label>
+    <input id="vartotojo-vardas" type="text" formControlName="vardas">
+  
+    <label for="vartotojo-slaptazodis">slaptazodis: </label>
+    <input id="vartotojo-slaptazodis" type="password" formControlName="slaptazodis">
+  
+    <button (click)="prisijungti()" type="submit" [disabled]="!forma.valid">Pateikti</button>
+  </form>

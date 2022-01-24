@@ -16,6 +16,7 @@
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.14.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.2",
           "NuGet.CommandLine": "6.0.0",
+          "PesterForPackageManagerConsole": "2.0.0-rc",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -244,6 +245,12 @@
         }
       },
       "NuGet.CommandLine/6.0.0": {},
+      "Pester/4.0.5-rc": {},
+      "PesterForPackageManagerConsole/2.0.0-rc": {
+        "dependencies": {
+          "Pester": "4.0.5-rc"
+        }
+      },
       "Swashbuckle.AspNetCore/6.2.3": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
@@ -523,6 +530,20 @@
       "sha512": "sha512-qnY7G/yLm6KzrelEjDIbnTghS2lMcVZhRViQRzKeGoeSyKOBYS4cDbGI71WKg9hYV7DriTE6aiW7/eYaePbY5A==",
       "path": "nuget.commandline/6.0.0",
       "hashPath": "nuget.commandline.6.0.0.nupkg.sha512"
+    },
+    "Pester/4.0.5-rc": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Srzno3b6vLMTvTB30hlY1KBMlr1ylGSNclO+bpQfKIOurv+DW8CYn/oUvbg1cDnRSaACK5aqguwMgxA91DFIQ==",
+      "path": "pester/4.0.5-rc",
+      "hashPath": "pester.4.0.5-rc.nupkg.sha512"
+    },
+    "PesterForPackageManagerConsole/2.0.0-rc": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ny/abhyCKdvq24Dt8GtzgBEXQNzNWi6TAclaX6CQxQ/SvbhCBUXjBvs20tPM2NtnnKU5ewbI73HXjiawou+iDg==",
+      "path": "pesterforpackagemanagerconsole/2.0.0-rc",
+      "hashPath": "pesterforpackagemanagerconsole.2.0.0-rc.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.2.3": {
       "type": "package",

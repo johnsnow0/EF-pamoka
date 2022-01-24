@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fKSXDiD6JxTwRIs8y/WZRV1QdZnwqXG+h32aMJI+vT9c3uBIqutoZV/FSlrKkPIun61LGPd7zO1wAveL8x1eRA==",
+  "dgSpecHash": "idbiLZhE8TTMP3pV5s5kCDHKXKQuslmomiK+2oxLp0gxyIJTcYVXmpFd/aGJvBo3bnjgvkp72kcmAZlmX8+8OQ==",
   "success": true,
   "projectFilePath": "/Users/vilkas/Documents/GitHub/EF-pamoka/EF_PAMOKA/EF_PAMOKA.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,8 @@
     "/Users/vilkas/.nuget/packages/npgsql/6.0.2/npgsql.6.0.2.nupkg.sha512",
     "/Users/vilkas/.nuget/packages/npgsql.entityframeworkcore.postgresql/6.0.2/npgsql.entityframeworkcore.postgresql.6.0.2.nupkg.sha512",
     "/Users/vilkas/.nuget/packages/nuget.commandline/6.0.0/nuget.commandline.6.0.0.nupkg.sha512",
+    "/Users/vilkas/.nuget/packages/pester/4.0.5-rc/pester.4.0.5-rc.nupkg.sha512",
+    "/Users/vilkas/.nuget/packages/pesterforpackagemanagerconsole/2.0.0-rc/pesterforpackagemanagerconsole.2.0.0-rc.nupkg.sha512",
     "/Users/vilkas/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/vilkas/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/vilkas/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

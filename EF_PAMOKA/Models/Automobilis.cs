@@ -10,6 +10,7 @@ namespace EF_PAMOKA.Models
 		public string Marke { get; set; }
 		public string Modelis { get; set; }
 		public int? SavininkoId { get; set; }
+
 	}
 }
 
